@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "text": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "correctAnswer": 0,
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 1,
+    "points": 15,
+    "category": "Astronomy"
+  },
+  {
+    "id": 3,
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "correctAnswer": 1,
+    "points": 5,
+    "category": "Biology"
+  },
+  {
+    "id": 4,
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "id": 5,
+    "text": "What is the largest mammal on Earth?",
+    "options": ["African Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "correctAnswer": 2,
+    "points": 20,
+    "category": "Biology"
+  },
+  {
+    "id": 6,
+    "text": "Which U.S. state is known as the Sunshine State?",
+    "options": ["California", "Florida", "Texas", "Arizona"],
+    "correctAnswer": 1,
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "id": 7,
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Jane Austen"],
+    "correctAnswer": 0,
+    "points": 15,
+    "category": "Literature"
+  },
+  {
+    "id": 8,
+    "text": "What is the largest planet in our solar system?",
+    "options": ["Mars", "Earth", "Jupiter", "Venus"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Astronomy"
+  },
+  {
+    "id": 9,
+    "text": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": 2,
+    "points": 10,
+    "category": "Science"
+  },
+  {
+    "id": 10,
+    "text": "In which year did Christopher Columbus first arrive in the Americas?",
+    "options": ["1492", "1620", "1776", "1865"],
+    "correctAnswer": 0,
+    "points": 10,
+    "category": "History"
+  }
+]
